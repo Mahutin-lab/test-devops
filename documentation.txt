@@ -1,0 +1,2 @@
+Bonjour à tous.Il s'agit d'une formation devops.
+Ajout d'une nouvelle fonctionnalité.
